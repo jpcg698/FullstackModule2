@@ -10,10 +10,10 @@ h1 {
 p {
   background-color: grey;
   border: 3px solid black;
-  width: 90%;
+  width: 95%;
   height: 150px;
-  margin-right: auto;
-  margin-left: auto;
+  margin: 2%;
+  padding: 2%;
   font-family: Helvetica;
   color: white;
 }
